@@ -1,3 +1,2 @@
 # hello-world
-
-Hi, nice meet you
+tutorial repository
